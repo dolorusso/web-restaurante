@@ -9,13 +9,21 @@ import { Testimonios } from "@/sections/Testimonios";
 export default function Home() {
   return (
     <>
-      <Header/>
-      <Inicio/>
-      <Restaurant/>
-      <Menu/>
-      <Testimonios/>
-      <CallToAction/>
-      <Footer/>
+       <Header />
+      <section id="inicio">
+        <Inicio />
+      </section>
+      <section id="restaurant">
+        <Restaurant />
+      </section>
+        <Menu />
+      <section id="testimonios">
+        <Testimonios />
+      </section>
+      <section id="contactanos">
+        <CallToAction />
+      </section>
+      <Footer />
     </>
   );
 }

@@ -11,10 +11,10 @@ export const Header = () => {
             <Image src={Logo} alt="italia" height={40} width={40}/>
             <Menu className="h-5 w-5 md:hidden" />
             <nav className="hidden md:flex gap-6 text-black/60 items-center">
-              <a href="#">About</a>
-              <a href="#">Restaurant</a>
-              <a href="#">Comensales</a>
-              <a href="#">Contactanos</a>
+              <a href="#inicio">About</a>
+              <a href="#restaurant">Restaurant</a>
+              <a href="#testimonios">Comensales</a>
+              <a href="#contactanos">Contactanos</a>
             </nav>
           </div>
         </div>
