@@ -110,7 +110,7 @@ const ColumnasTestimonios= (props: {className?: string; testimonios: typeof test
 )
 
 export const Testimonios = () => {
-  return <section className="bg-white">
+  return <section className="bg-white pt-16">
     <div className="container">
       <h2 className="text-center text-3xl md:text-[54px] md:leading-[60px] font-bold tracking-tighter bg-gradient-to-b from-orange-600 to-[#961903] text-transparent bg-clip-text">Lo que opinan nuestros comensales</h2>
       <p className="text-center text-[20px] leading-[30px] tracking-tight text-[#36120e] mt-5">La satisfacción de nuestros comensales es nuestra mayor prioridad. Sus opiniones nos inspiran a seguir brindando la mejor experiencia gastronómica.</p>
