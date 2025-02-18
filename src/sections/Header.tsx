@@ -1,8 +1,9 @@
 import Logo from '@/assets/italia.png';
 import Menu from '@/assets/menu.svg';
 import Image from 'next/image';
+import React, { FC } from 'react';
 
-export const Header = () => {
+export const Header: FC = () => {
   return (
     <header className="sticky top-0 backdrop-blur-sm z-20">
       <div className="py-5">
