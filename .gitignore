@@ -25,3 +25,6 @@ Thumbs.db
 # Configuración de editores de código
 .vscode/
 .idea/
+
+# Ignorar next-env.d.ts
+next-env.d.ts
