@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este proyecto es una página web de un restaurante italiano. Está creada con el objetivo de **practicar y familiarizarme con las tecnologías más comunes para desarrollo web**. La web tiene un diseño responsivo y contiene varias secciones informativas como el menú, testimonios, llamada a la acción y un pie de página.
+Este proyecto es una página web estática diseñada para un restaurante italiano ficticio. Su propósito principal es practicar y consolidar habilidades en tecnologías web.
 
 ## Tecnologías Utilizadas
 
@@ -19,7 +19,6 @@ Este proyecto se creó con el objetivo de **practicar el uso de Next.js, Tailwin
 
 - **Navegación fluida**: Implementación de un menú que permite navegar entre las secciones de la página (About, Restaurant, Comensales, Contactanos).
 - **Diseño responsivo**: El sitio se adapta a diferentes tamaños de pantalla, mostrando una experiencia optimizada en dispositivos móviles, tabletas y escritorios.
-- **Llamada a la acción**: Sección de llamada a la acción donde los usuarios pueden realizar reservas o conocer promociones del restaurante.
 - **Optimización de imágenes**: Uso del componente `next/image` para garantizar una carga rápida de imágenes con optimización automática.
   
 ## Instalación
