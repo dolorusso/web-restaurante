@@ -5,7 +5,7 @@ import pasta from "@/assets/pasta.png";
 
 export const Inicio = () => {
   return (
-    <section className="pt-8 pb-20 md:pt-5 md:pb-10 bg-[radial-gradient(eLlipse_200%_100%_at_bottom_left,#FFAE69,#EAEEFE_60%)] overflow-x-clip">
+    <section className="pt-8 pb-20 md:pt-5 md:pb-10 bg-[radial-gradient(eLlipse_200%_100%_at_bottom_left,#FFFFFF,#FFEDD5_80%)] overflow-x-clip">
       <div className="container">
         <div className="md:flex items-center">
           <div className="md:w-[478px]">

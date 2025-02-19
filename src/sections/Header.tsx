@@ -14,7 +14,7 @@ export const Header: FC = () => {
             <nav className="hidden md:flex gap-6 text-black/70 items-center">
               <a href="#inicio">About</a>
               <a href="#restaurant">Restaurant</a>
-              <a href="#testimonios">Comensales</a>
+              <a href="#testimonios">Reseñas</a>
               <a href="#contactanos">Contactanos</a>
             </nav>
           </div>
